@@ -1,0 +1,28 @@
+{
+  "name": "angular2-auto-grow",
+  "version": "0.1.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aashishranjan2/angular2-auto-grow.git"
+  },
+  "author": {
+    "name": "aashish ranjan",
+    "email": "aashishranjan2@gmail.com"
+  },
+  "keywords": [
+    "angular"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aashishranjan2/angular2-auto-grow.git/issues"
+  },
+  "main": "angular2-auto-grow.umd.js",
+  "module": "angular2-auto-grow.js",
+  "jsnext:main": "angular2-auto-grow.js",
+  "typings": "angular2-auto-grow.d.ts",
+  "peerDependencies": {
+    "@angular/core": "^4.0.0",
+    "rxjs": "^5.1.0",
+    "zone.js": "^0.8.4"
+  }
+}
